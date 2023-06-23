@@ -1,0 +1,13 @@
+button {
+    color: white;
+    background: purple;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 1em;
+}
+
+input {
+    padding: 0.5em;
+    margin: 0.5em;
+}
